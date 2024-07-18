@@ -1,0 +1,11 @@
+format([DataCorePlugin.GameData.NewData.rpms],'0')
++ ';' + 
+format([DataCorePlugin.GameData.NewData.SpeedKmh],'0')
++ ';' +
+format(round([DataCorePlugin.GameData.Fuel] * 10 , 0), 0)
++ ';' +
+format([DataCorePlugin.GameData.NewData.EngineIgnitionOn], '0')
++ ';' +
+format([GameRawData.ShowLights], 0)
++ ';' +
+([DataCorePlugin.CurrentDateTime])
