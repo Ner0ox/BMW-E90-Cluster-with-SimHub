@@ -8,3 +8,7 @@ This was made for 2005-2007 Manual BMW E90 Clusters, I will not be implementing 
 
 Discord id: 1188968579517927465
 Username: utopi.a
+
+
+
+based off mostly this https://github.com/Marcin648/e90-dashboard-ets2
